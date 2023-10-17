@@ -1,3 +1,3 @@
 function skillsMembber() {
-    //sgk
+    return null;
 }
